@@ -7,7 +7,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 
 ***FILMES***
 
-#EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="http://images.universohq.com//2017/10/ThorRagnarokPoster2.jpg" group-title="Filmes Lançamentos", THOR: RAGNAROK
@@ -15,11 +15,5 @@ http://s007.thevid.net/v/560668f3da48c75f780138e1cd350b50.mp4?e=1518918281&sa=u7
 
 ***SERIES***
 
-****Lucifer****
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900" group-title="Seriados", The Last of US S1E1
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="1" tvg-logo="https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900" group-title="Seriados", The Last of US S1E1
 https://t-ca-1.dokicloud.one/_v10/780ddfe76bef835f61cd2a8447aca3bb770587700d208755fbdbab7d074342d83b310f8d0cf848562a76e8809d7112da07dec6c68fbc64353c78179f3b32d43dd0bb28e7cd2e96e297031fe8e5d7c9c677981d3812357a366a4052cac68c99c0c8e8b8ca3cbb3f8b5045105499227b60c3bcaf775f67797be339cf2c8840b64a/720/index.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://iptv-org.github.io/iptv/countries/br.m3u
-
