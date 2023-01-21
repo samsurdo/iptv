@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="CONTRATA HOY TVPREMIUMHD.COM" tvg-name="CONTRATA HOY TVPREMIUMHD.COM" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="CANALES 24/7",CONTRATA HOY TVPREMIUMHD.COM
-http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=1124
-#EXTINF:-1 tvg-ID="24/7 LOS SIMPSON 01-15" tvg-name="24/7 LOS SIMPSON 01-15" tvg-logo="https://i.imgur.com/O9amrzQ.jpg" group-title="CANALES 24/7",24/7 LOS SIMPSON 01-15
-http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2278
-#EXTINF:-1 tvg-ID="24/7 LOS SIMPSON 16-28" tvg-name="24/7 LOS SIMPSON 16-28" tvg-logo="https://i.imgur.com/WJQ6pYN.jpg" group-title="CANALES 24/7",24/7 LOS SIMPSON 16-28
-http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2041
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="Brasil",Canal Educação
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil",Canal LIBRAS
@@ -26,3 +19,7 @@ http://s007.thevid.net/v/560668f3da48c75f780138e1cd350b50.mp4?e=1518918281&sa=u7
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900" group-title="Seriados", The Last of US S1E1
 https://t-ca-1.dokicloud.one/_v10/780ddfe76bef835f61cd2a8447aca3bb770587700d208755fbdbab7d074342d83b310f8d0cf848562a76e8809d7112da07dec6c68fbc64353c78179f3b32d43dd0bb28e7cd2e96e297031fe8e5d7c9c677981d3812357a366a4052cac68c99c0c8e8b8ca3cbb3f8b5045105499227b60c3bcaf775f67797be339cf2c8840b64a/720/index.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
+https://iptv-org.github.io/iptv/countries/br.m3u
+
