@@ -1,13 +1,4 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="TESTE", LA 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF: -1, La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF: -1, TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-
-#EXTINF: -1, El Toro TV
-https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF: -1 tvg-logo="" group-title="BRASIL" Brasil
+https://iptv-org.github.io/iptv/countries/br.m3u
