@@ -1,6 +1,5 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900" group-title="The Last of US", Temp 1 - Epi 1
-#EXTGRP:The Last of US
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FiQo4ddaUAAICdo?format=jpg&name=900x900" group-title="The Last of US", T1-E1
 https://t-ca-1.dokicloud.one/_v10/780ddfe76bef835f61cd2a8447aca3bb770587700d208755fbdbab7d074342d83b310f8d0cf848562a76e8809d7112da07dec6c68fbc64353c78179f3b32d43dd0bb28e7cd2e96e297031fe8e5d7c9c677981d3812357a366a4052cac68c99c0c8e8b8ca3cbb3f8b5045105499227b60c3bcaf775f67797be339cf2c8840b64a/720/index.m3u8
