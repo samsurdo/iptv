@@ -2,15 +2,3 @@
 
 #EXTINF:0 tvg-logo="" group-title="Categoria", Temp 1 - Epi 1
 site
-#EXTINF:0 group-title="Movie VOD",HD : Jurassic Thunder 2020
-#EXTGRP:Movie VOD
-http://server.tv/M/b8acdd02189ac802451dac8565335a1f/blah/blaz
-#EXTINF:0 group-title="TV VOD",HD : Transplant S01E03
-#EXTGRP:TV VOD
-http://server.tv/vod/c1ae9a2db079b77820c11771922de481vkag/blah
-#EXTINF:0 group-title="TV VOD",HD : Jimmy Kimmel 2020 03 11 David Spade 720p WEB x264-XLF
-#EXTGRP:TV VOD
-http://server.tv/vod/11c2a2af17d38e5b15dadadd15de61c5vkag/blah
-#EXTINF:0 group-title="TV VOD",HD : Jimmy Fallon 2020 03 11 Sen Bernie Sanders 720p WEB x264-XLF
-#EXTGRP:TV VOD
-http://server.tv/vod/9bd22770788b74b33d084ad0aff06fd9vkag/blah
