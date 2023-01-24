@@ -4,9 +4,20 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil",Canal LIBRAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5
+#EXTINF:-1 tvg-logo="" group-title="Brasil",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w446207828.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",SBT | YouTube
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674585225/ei/KdDPY-SNAorQwgT-kJHACA/ip/189.68.171.190/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPNHE4tQ9IrfnFHxOE-85eTiSsgNndeN_nRpLiC659xkCIBqfhpVkESboEImEJSSgYfB0iiEZcmfXyqN2JoZZqmoY/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",Record TV
 https://m3u9.ml/a2/hls1/record.m3u8?mu3zAQc9HC3GbwJq=ytohCjY_Xm3spzfuAePmrg&3U1G7qaTxrPbalZnEx=1674593049
 #EXTINF:-1 tvg-logo="" group-title="Brasil",Band TV
 https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=4Ecal_0R5XaWoRDJ0hkNUw&3U1G7qaTxrPbalZnEx=1674593236
+#EXTINF:-1 tvg-logo="" group-title="Brasil",Rede TV
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1386492384_b1625978.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="YouTube Ao Vivo",Nasa
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674588290/ei/ItzPY4fPIfWEobIPjeO7gAs/ip/189.68.171.190/id/86YLFOog4GM.59/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQcYQ4IOnXi5vEmrQ-hqp-KEx4vqKAzCEULzZ-K7olpwCIQCIVUL-eIQmvcvAZjwt4xW0wgljcIdBYXCrRhCA1DgOxA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="YouTube Ao Vivo",Cidades do Mundo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674588501/ei/9dzPY6mEEMmU4dUPp9qAsAc/ip/189.68.171.190/id/KR8l9t8YpqQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgC5_SWGkXhvOoaB6lhMjcMq_c10lXtmtpfHqHoEw-2OQCIQCpMY4H9xsRXop6H4_I2rBAz-32oIc6HaWmn2b8N69MNQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="YouTube Ao Vivo",Lugares do Países
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674588575/ei/P93PY9rdFeDl1sQPyMO8wAo/ip/189.68.171.190/id/_-WWwNt8AzU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMyQX-HZtancWY_4zaMhy7bvWNM6a3smoeM_WkYBxY3wCIQCnjkNT9QDjCnraPnkjigP3STQs54cQ76rrnxTAt1blhA%3D%3D/file/index.m3u8
