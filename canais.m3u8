@@ -4,3 +4,5 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil",Canal LIBRAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil",SBT | YouTube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674585225/ei/KdDPY-SNAorQwgT-kJHACA/ip/189.68.171.190/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPNHE4tQ9IrfnFHxOE-85eTiSsgNndeN_nRpLiC659xkCIBqfhpVkESboEImEJSSgYfB0iiEZcmfXyqN2JoZZqmoY/file/index.m3u8
