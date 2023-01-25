@@ -1,7 +1,5 @@
-#EXTM3U size="medium"
+#EXTM3U size="big"
+#EXTBG:https://cdn-icons-png.flaticon.com/512/6553/6553523.png
 
-#EXTINF:0 type="playlist", Seriados
-#EXTSIZE: Medium
-https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/listas.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/6553/6553523.png", Seriados
 https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/listas.m3u
