@@ -1,6 +1,9 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", TV do MUNDO
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", MUNDO
+https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/3218/3218541.png", TVs do MUNDO
 https://raw.githubusercontent.com/samsurdo/iptv/main/menus/tv-mundo.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2020/12/Logo-Pluto-TV.jpg", PLUTO TV
