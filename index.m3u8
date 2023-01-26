@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", MUNDO
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", MUNDO
 https://iptv-org.github.io/iptv/index.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/3218/3218541.png", TVs do MUNDO
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/3218/3218541.png", TVs do MUNDO
 https://raw.githubusercontent.com/samsurdo/iptv/main/menus/tv-mundo.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2020/12/Logo-Pluto-TV.jpg", PLUTO TV
+#EXTINF:0 tvg-logo="https://sobresagas.com.br/wp-content/uploads/2020/12/Logo-Pluto-TV.jpg", PLUTO TV
 https://i.mjh.nz/PlutoTV/all.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/5262/5262062.png", SERIADOS
+#EXTINF:0 tvg-logo="https://cdn-icons-png.flaticon.com/512/5262/5262062.png", SERIADOS
 https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/listas.m3u
