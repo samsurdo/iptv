@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="playlist", 2015
+#EXTINF:0 type="playlist", TV do MUNDO
 #EXTSIZE: Medium
-http://example.com/playlists/2015.m3u
-#EXTINF:0 type="playlist", 2010-2014
-#EXTSIZE: Medium
-http://example.com/playlists/2010-2014.m3u
+https://raw.githubusercontent.com/samsurdo/iptv/main/menus/tv-mundo.m3u
