@@ -1,10 +1,34 @@
-#EXTM3U
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/2072/2072130.png", MUNDO
-#EXTSIZE: Medium
+#EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/2072/2072130.png", Mundo
 https://iptv-org.github.io/iptv/countries/int.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197515.png", AFEGANISTÃO
-#EXTSIZE: Medium
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197515.png", Afeganistão
 https://iptv-org.github.io/iptv/countries/af.m3u
-#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/3909/3909370.png", BRASIL
-#EXTSIZE: Medium
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/3909/3909370.png", Brasil
 https://iptv-org.github.io/iptv/countries/af.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197520.png", Albânia
+https://iptv-org.github.io/iptv/countries/al.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197511.png", Algéria
+https://iptv-org.github.io/iptv/countries/dz.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197552.png", Samoa Americana
+https://iptv-org.github.io/iptv/countries/as.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/128/197/197535.png", Andorra
+https://iptv-org.github.io/iptv/countries/ad.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197513.png", Angola
+https://iptv-org.github.io/iptv/countries/ao.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197550.png", Anguilla
+https://iptv-org.github.io/iptv/countries/ai.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197533.png", Antígua e Barbuda
+https://iptv-org.github.io/iptv/countries/ag.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197573.png", Argentina
+https://iptv-org.github.io/iptv/countries/ar.m3u
