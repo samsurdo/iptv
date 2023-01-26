@@ -1,6 +1,6 @@
 U#EXTM3U size="medium"
 
-#EXTINF:-1 type="playlist" serie="1" season="1" episode="1" serie-title="The Last of US"  tvg-name="The Last of US" tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/0b/4f/0b4f694b650aad2017b8385df8bbbc6b/0b4f694b650aad2017b8385df8bbbc6b.jpg" group-title="The Last of US" subtitles="https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/the-last-of-us/legendas/t1e1.srt", Episódio 1
+#EXTINF:-1 type="stream" serie="1" season="1" episode="1" serie-title="The Last of US"  tvg-name="The Last of US" tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/0b/4f/0b4f694b650aad2017b8385df8bbbc6b/0b4f694b650aad2017b8385df8bbbc6b.jpg" group-title="The Last of US" subtitles="https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/the-last-of-us/legendas/t1e1.srt", Episódio 1
 https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/the-last-of-us/videos/t1e1.m3u8
 
 #EXTINF:-1 type="video" serie="1" season="1" episode="2" serie-title="The Last of US" tvg-name="The Last of US" tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/0b/4f/0b4f694b650aad2017b8385df8bbbc6b/0b4f694b650aad2017b8385df8bbbc6b.jpg" group-title="The Last of US" subtitles="https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/the-last-of-us/legendas/t1e2.srt", T1-E2
