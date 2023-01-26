@@ -1,4 +1,4 @@
-#EXTM3U size="medium"
+#EXTM3U
 
 #EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", MUNDO
 https://iptv-org.github.io/iptv/index.m3u
