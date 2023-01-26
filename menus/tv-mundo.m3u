@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png", BRASIL
+#EXTSIZE: Medium
+https://iptv-org.github.io/iptv/countries/br.m3u
+#EXTINF:0 type="playlist", MUNDO
+#EXTSIZE: Medium
+https://iptv-org.github.io/iptv/countries/int.m3u
