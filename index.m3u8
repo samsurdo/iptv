@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:0 type="playlist", TV do MUNDO
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/8135/8135583.png", TV do MUNDO
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/samsurdo/iptv/main/menus/tv-mundo.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/5262/5262062.png", SERIADOS
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/listas.m3u
