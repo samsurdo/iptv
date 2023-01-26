@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0 type="playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png", BRASIL
-#EXTSIZE: Medium
-https://iptv-org.github.io/iptv/countries/br.m3u
-#EXTINF:0 type="playlist", MUNDO
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/2072/2072130.png", MUNDO
 #EXTSIZE: Medium
 https://iptv-org.github.io/iptv/countries/int.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197515.png", AFEGANISTÃO
+#EXTSIZE: Medium
+https://iptv-org.github.io/iptv/countries/af.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://cdn-icons-png.flaticon.com/512/3909/3909370.png", BRASIL
+#EXTSIZE: Medium
+https://iptv-org.github.io/iptv/countries/af.m3u
