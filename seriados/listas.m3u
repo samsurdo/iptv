@@ -1,9 +1,7 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/9e/9a/9e9ab1aec0ddb35bda8ad0b81ec45d99/9e9ab1aec0ddb35bda8ad0b81ec45d99.jpg", Uma Advogada Extraordinária
+#EXTINF:0 tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/9e/9a/9e9ab1aec0ddb35bda8ad0b81ec45d99/9e9ab1aec0ddb35bda8ad0b81ec45d99.jpg" description="Netflix", Uma Advogada Extraordinária
 https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/uma-advogada-extraordinaria/listas.m3u
 
-#EXTINF:-1 description="HBO Max", The Last of US
-#EXTSIZE: big
-#EXTBG:"https://img.movieshd.watch/xxrz/250x400/391/0b/4f/0b4f694b650aad2017b8385df8bbbc6b/0b4f694b650aad2017b8385df8bbbc6b.jpg"
+#EXTINF:-1 tvg-logo="https://img.movieshd.watch/xxrz/250x400/391/0b/4f/0b4f694b650aad2017b8385df8bbbc6b/0b4f694b650aad2017b8385df8bbbc6b.jpg" description="HBO Max", The Last of US 
 https://raw.githubusercontent.com/samsurdo/iptv/main/seriados/the-last-of-us/listas.m3u
