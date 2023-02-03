@@ -54,3 +54,24 @@ https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/pju8r4rjf4k8a.m3u8?s=Wa_eeSP42Xk5
 https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/6ua5mxm6.m3u8?s=SjtzFVIKJ2YqIauPgvjLsA&e=1675454408
 #EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 4
 https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/jtwv2.m3u8?s=N2dW6PWRsYgEphvRFcFRWw&e=1675454433
+#EXTINF:-1 tvg-logo="" group-title="Esportes",NBA
+https://server100.online/nba/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=993de5fcdc8ee1d0f8c5fdd7be26d2dbca4115bc-5870f8b615f6d186afa38a6dd398eee3-1675436334-1675432734
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Band Sports
+https://server100.online/band-sports/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=c3f58ef80c3f8e2e4badb59c63885d6a437fcfb3-5c883d4522b3dc8303f01b674acedcd6-1675436368-1675432768
+#EXTINF:-1 tvg-logo="" group-title="Esportes",Eleven Sports 1
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/i5jw49fme.m3u8?s=pC_UxhHK6sI4Jky3oK80vw&e=1675454743
+#EXTINF:-1 tvg-logo="" group-title="Esportes",UFC FIGHT PASS
+https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=4cffbdf8f872d23d942cff69f1ad62b3c7cb1e84-4f6569646dab9a411ba595a6bb494be3-1675436528-1675432928
+#EXTINF:-1 tvg-logo="" group-title="Variados",SYFY
+https://server100.online/record/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=0f29c93516b08dbf2568aa90cfc74d01c6c2f8bf-f62b262dcb198ec788009648692293e0-1675436685-1675433085
+#EXTINF:-1 tvg-logo="" group-title="Brasil",Record TV
+https://server100.online/syfy/tracks-v1a1l1/mono.m3u8?remote=177.45.5.44&token=3c228ff8f1ed55820f714153eeff0f31b8b5ac32-032bea146174f9f0c53593f3c7f5c072-1675436257-1675432657
+
+#EXTINF:-1 tvg-logo="" group-title="Cabos",Animal Planet
+https://server100.online/animal-planet/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=550ff8fdf4e0476358fa5671f18ab2ee61caae53-14fc8d668be006267847841563ce58a8-1675436730-1675433130
+#EXTINF:-1 tvg-logo="" group-title="Cabos",MultiShow
+https://server100.online/multishow/tracks-v1a1l1/mono.m3u8?remote=177.45.5.44&token=2fe1106bc5780e467f59fd3d611eed01699161ea-09a3439e28c6a40b742de65dced79997-1675436770-1675433170
+#EXTINF:-1 tvg-logo="" group-title="Cabos",MTV
+https://server100.online/mtv/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=3765826ca68b14189c3e35aeadcd2b69c06d3b95-bc86c19849e794587ebe36a3dc4c9a93-1675436809-1675433209
+#EXTINF:-1 tvg-logo="" group-title="Cabos",BIS
+https://server100.online/bis/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=a689fce82434fdd22132d01d8c228e601b27b14e-bb05b6bd1019420a1be56e2832ea3897-1675436842-1675433242
