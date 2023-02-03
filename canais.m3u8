@@ -32,11 +32,25 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674589442/ei/o
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3069/3069469.png" group-title="YouTube Ao Vivo",Lugares do Países 4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674589518/ei/7eDPY4C7OvaP4dUPiKSUwAI/ip/189.68.171.190/id/b-PyEswUenE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgP-spc2YTSp_ZEzes8NFD0LTZ73cLnZJz8d6JwNQJ7SICIQCiIYhmy_Hw2WlCbjNR-WeS4K00z3bjoteQy4YADea8oQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportvb.png" group-title="Esportes",SporTV 1 - 1
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportvb.png" group-title="Esportes",SporTV 1
 https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=1536237b147543606bbb4450a78ea1469a662fa7-997841cd05b67d7cf092ff6eba6bd842-1675434475-1675430875
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2b.png" group-title="Esportes",SportV 2 - 1
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2b.png" group-title="Esportes",SportV 2
 https://server100.online/sportv2/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=144d6eb086d514d535416586171ca1c41011f179-355d98c78db9a3435e00635c36e216fc-1675434281-1675430681
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv3b.png" group-title="Esportes",SporTV 3 - 1
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv3b.png" group-title="Esportes",SporTV 3
 https://server100.online/sportv3/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=74e1869cc6cc6acef9351432ce235e2f0fd9583d-364f882c25050c8b8834cd9edee9244f-1675434566-1675430966
-#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="Esportes",Premiere 1 - 1
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="Esportes",Premiere 1
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=afea280e1f484a2d7053b6607df8a491e08890c5-1b2472b56252b54b71d1f17b090f2335-1675434744-1675431144
+#EXTINF:-1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png" group-title="Esportes",Premiere 2
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=38eba0ae828c45e32cae6bd03c100b1d930e3615-83d538bfdb806ab697544a4e422dcee7-1675435734-1675432134
+#EXTINF:-1 tvg-logo="" group-title="Esportes",DAZN
+https://server100.online/dazn/tracks-v1a1/mono.m3u8?remote=177.45.5.44&token=66dedb562747a2bf3ba6ff148b51209e5eb88679-bf28032fd5b2e30155aec25b58c1b4ac-1675435865-1675432265
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 2
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/ovqfhh3m5wv.m3u8?s=Ng6I2p_DrfjWrw8R8jS1Ig&e=1675454312
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 3
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/b5r01up6xuiica.m3u8?s=FSXTi5RhGNyFYpfBy9QdvQ&e=1675454251
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 3 - NBA
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/pju8r4rjf4k8a.m3u8?s=Wa_eeSP42Xk5tTimMBrtMQ&e=1675454383
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 4
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/6ua5mxm6.m3u8?s=SjtzFVIKJ2YqIauPgvjLsA&e=1675454408
+#EXTINF:-1 tvg-logo="" group-title="Esportes",SPORTV TV 4
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/jtwv2.m3u8?s=N2dW6PWRsYgEphvRFcFRWw&e=1675454433
