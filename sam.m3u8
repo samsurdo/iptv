@@ -12,9 +12,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674585225/ei/K
 #EXTINF:-1 tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2019/11/redetv1-768x432.png" group-title="Brasil",Rede TV
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1386492384_b1625978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",Record TV [*]
-https://server100.online/record/video.m3u8?token=a2acda7ab5e052d6315dacc831795966e6820632-84d8496157a54d63bfc068057c28e671-1675624496-1675620896&remote=187.11.78.61
-#EXTINF:-1 tvg-logo="" group-title="Brasil",Record TV 2 [*]
-https://server100.online/record/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=a2acda7ab5e052d6315dacc831795966e6820632-84d8496157a54d63bfc068057c28e671-1675624496-1675620896
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",Band TV [*]
 https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=4Ecal_0R5XaWoRDJ0hkNUw&3U1G7qaTxrPbalZnEx=1674593236
 
