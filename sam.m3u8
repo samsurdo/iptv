@@ -100,6 +100,46 @@ http://168.205.87.198:8555/live/antony/1234/38.m3u8
 http://168.205.87.198:8555/live/antony/1234/39.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Testes", 40
 http://168.205.87.198:8555/live/antony/1234/40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 41
+http://168.205.87.198:8555/live/antony/1234/41.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 42
+http://168.205.87.198:8555/live/antony/1234/42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 43
+http://168.205.87.198:8555/live/antony/1234/43.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 44
+http://168.205.87.198:8555/live/antony/1234/44.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 45
+http://168.205.87.198:8555/live/antony/1234/45.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 46
+http://168.205.87.198:8555/live/antony/1234/46.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 47
+http://168.205.87.198:8555/live/antony/1234/47.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 48
+http://168.205.87.198:8555/live/antony/1234/48.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 49
+http://168.205.87.198:8555/live/antony/1234/49.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 50
+http://168.205.87.198:8555/live/antony/1234/50.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 51
+http://168.205.87.198:8555/live/antony/1234/51.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 52
+http://168.205.87.198:8555/live/antony/1234/52.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 53
+http://168.205.87.198:8555/live/antony/1234/53.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 54
+http://168.205.87.198:8555/live/antony/1234/54.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 55
+http://168.205.87.198:8555/live/antony/1234/55.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 56
+http://168.205.87.198:8555/live/antony/1234/56.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 57
+http://168.205.87.198:8555/live/antony/1234/57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 58
+http://168.205.87.198:8555/live/antony/1234/58.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 59
+http://168.205.87.198:8555/live/antony/1234/59.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Testes", 60
+http://168.205.87.198:8555/live/antony/1234/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="YouTube Ao Vivo",Nasa
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674588290/ei/ItzPY4fPIfWEobIPjeO7gAs/ip/189.68.171.190/id/86YLFOog4GM.59/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQcYQ4IOnXi5vEmrQ-hqp-KEx4vqKAzCEULzZ-K7olpwCIQCIVUL-eIQmvcvAZjwt4xW0wgljcIdBYXCrRhCA1DgOxA%3D%3D/file/index.m3u8
