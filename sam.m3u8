@@ -13,12 +13,15 @@ http://168.205.87.198:8555/live/antony/1234/104.m3u8
 http://168.205.87.198:8555/live/antony/1234/102.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Brasil",Record TV
 http://168.205.87.198:8555/live/antony/1234/96.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil",Band TV [*]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil",Band TV
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/televisao/emissora/tv-brasil_8669.jpeg" group-title="Brasil",TV Brasil
 http://168.205.87.198:8555/live/antony/1234/134.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Brasil",Canal Futura
 http://168.205.87.198:8555/live/antony/1234/67.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Testes"
+http://168.205.87.198:8555/live/antony/1234/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="YouTube Ao Vivo",Nasa
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674588290/ei/ItzPY4fPIfWEobIPjeO7gAs/ip/189.68.171.190/id/86YLFOog4GM.59/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQcYQ4IOnXi5vEmrQ-hqp-KEx4vqKAzCEULzZ-K7olpwCIQCIVUL-eIQmvcvAZjwt4xW0wgljcIdBYXCrRhCA1DgOxA%3D%3D/file/index.m3u8
