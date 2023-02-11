@@ -10,7 +10,7 @@ http://168.205.87.198:8555/live/antony/1234/4.m3u8
 http://168.205.87.198:8555/live/antony/1234/5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Testes", 6
 http://168.205.87.198:8555/live/antony/1234/6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 7
+#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Agro Brasil TV
 http://168.205.87.198:8555/live/antony/1234/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Testes", 8
 http://168.205.87.198:8555/live/antony/1234/8.m3u8
