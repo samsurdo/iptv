@@ -1,15 +1,5 @@
-#EXTINF:-1 tvg-logo="" group-title="Testes", 1
-http://168.205.87.198:8555/live/antony/1234/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 2
-http://168.205.87.198:8555/live/antony/1234/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 3
-http://168.205.87.198:8555/live/antony/1234/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 4
-http://168.205.87.198:8555/live/antony/1234/4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 5
-http://168.205.87.198:8555/live/antony/1234/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Testes", 6
-http://168.205.87.198:8555/live/antony/1234/6.m3u8
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Agro Brasil TV
 http://168.205.87.198:8555/live/antony/1234/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Testes", 8
