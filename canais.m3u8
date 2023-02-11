@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="Brasil Aberto", Canal Educação
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil Aberto", Canal LIBRAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil Aberto", Band TV
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Brasil Aberto", TV Cultura
