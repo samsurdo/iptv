@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Agro Brasil TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Variados", Agro Brasil TV
 http://168.205.87.198:8555/live/antony/1234/7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", AgroCanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AGRO_CANAL_-_LOGO.jpg" group-title="Variados", AgroCanal
 http://168.205.87.198:8555/live/antony/1234/10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Band TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil Aberto", Band TV
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", BoaVontade TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/BOA_VONTADE_2.png" group-title="Variados", BoaVontade TV
 http://168.205.87.198:8555/live/antony/1234/21.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Canção Nova
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Variados", Canção Nova
 http://168.205.87.198:8555/live/antony/1234/25.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Fish TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1200px-Fish_TV_logo_2022.svg.png" group-title="Brasil Aberto", Fish TV
 http://168.205.87.198:8555/live/antony/1234/62.m3u8
 #EXTINF:-1 tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png" group-title="Brasil Aberto", Futura
 http://168.205.87.198:8555/live/antony/1234/67.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Gazeta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Brasil Aberto", Gazeta
 http://168.205.87.198:8555/live/antony/1234/69.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Brasil Aberto", Globo
 http://168.205.87.198:8555/live/antony/1234/70.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Master
+#EXTINF:-1 tvg-logo="https://www.master.tv.br/assets/img/logo-master-tv-192x192.png" group-title="Variados", Master TV
 http://168.205.87.198:8555/live/antony/1234/74.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", RáTimBum TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil Aberto", RáTimBum TV
 http://168.205.87.198:8555/live/antony/1234/84.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Rádios", 1
 http://168.205.87.198:8555/live/antony/1234/85.m3u8
@@ -42,11 +42,11 @@ http://168.205.87.198:8555/live/antony/1234/92.m3u8
 http://168.205.87.198:8555/live/antony/1234/93.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Rádios", 10
 http://168.205.87.198:8555/live/antony/1234/95.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Record TV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Brasil Aberto", Record TV
 http://168.205.87.198:8555/live/antony/1234/96.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Record News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brasil Aberto", Record News
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", Rede Gênesis
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Brasil Aberto", Rede TV
 http://168.205.87.198:8555/live/antony/1234/98.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil Aberto", 99
 http://168.205.87.198:8555/live/antony/1234/99.m3u8
