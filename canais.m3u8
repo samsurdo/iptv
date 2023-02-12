@@ -171,3 +171,6 @@ http://168.205.87.198:8555/live/antony/1234/224.m3u8
 http://168.205.87.198:8555/live/antony/1234/225.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Músicas", Rádio
 http://168.205.87.198:8555/live/antony/1234/226.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes", SPORTV
+http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/16753.m3u8
