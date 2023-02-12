@@ -172,7 +172,7 @@ http://168.205.87.198:8555/live/antony/1234/225.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Músicas", Rádio
 http://168.205.87.198:8555/live/antony/1234/226.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes", SPORTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SPORTV
 http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/16753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes", SPORTV 2
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SPORTV 2
+http://xcui.vitvabc.xyz:8880/287994018756/287994018756/16753
