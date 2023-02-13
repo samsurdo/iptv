@@ -172,13 +172,6 @@ http://168.205.87.198:8555/live/antony/1234/225.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Músicas", Rádio
 http://168.205.87.198:8555/live/antony/1234/226.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SPORTV
-http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/16753.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SPORTV 2
-http://xcui.vitvabc.xyz:8880/287994018756/287994018756/16753
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SPORTV 3
-http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89604
-
 #EXTINF:-1 tvg-logo="" group-title="Lista 2", Alquiler 1 HD
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/73671
 #EXTINF:-1 tvg-logo="" group-title="Lista 2", Alquiler 2 HD
@@ -5038,3 +5031,5 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31278
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31473
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telecine_Touch_3.png/800px-Telecine_Touch_3.png" group-title="Pago | Filmes", Telecine Touch
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31593
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Pago | Esportes", SPORTV TV 1
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89604
