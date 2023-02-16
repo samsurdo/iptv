@@ -4993,6 +4993,8 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16704
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16708
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Pago | Esportes", SporTV
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16753
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Pago | Esportes", SporTV [2]
+https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=d06cd3a8bada939a6c61ccd8930781ffbb4811df-60b8023296a83d1bd604c4af899e5026-1676546044-1676538844
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Pago | Documentarios", Discovery World HD
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Pago | Documentarios", ID Investigacao Discovery
