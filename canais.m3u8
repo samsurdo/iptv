@@ -231,10 +231,20 @@ https://52zkq4daee9n9hr2.cdnexpress11.net:8443/hls/6ua5mxm6.m3u8?s=wl7M5W5jpAjDV
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-5-454.png" group-title="Pago | Esportes", SPORTV TV 5
 https://52zkq4daee9n9hr2.cdnexpress11.net:8443/hls/jtwv2.m3u8?s=LGrDcL5Acz_Y6AucCl0WGA&e=1676560388
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=372d71136ca0abaf0ae640d81d89e0fb3655818a-40c15e0bae0b90482173e0675e3611ba-1676547493-1676540293
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=484dabf368dac230e7ca6108d115f4ea31ea8a37-3873f06f9088041e36fb8f3d68c795c9-1676547757-1676540557
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 2
 https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=f8b3e7c5a22d2f9b6ca17a62ae7ef3a25915da94-fd0f669babd3073fdf1bb0d0eae4235d-1676547685-1676540485
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 3
+https://server100.online/premiere3/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=fea4b5b61a87157d6610db39fd336c0f49a692eb-05de12f4371611ed60dfa786e47ca774-1676547723-1676540523
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 4
+https://server100.online/premiere4/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=b2f919741d0e2806270d555007525866c0a9cd04-ae572ae20dd2b47259fa12d380527006-1676547787-1676540587
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 5
+https://server100.online/premiere5/video.m3u8?token=01ec6283e9c9b10bf6a7f0ca92dbdfadee282543-855a157abc329296ab2442e4155a0fc0-1676547821-1676540621&remote=187.11.78.61
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 6
+https://server100.online/premiere6/video.m3u8?token=b0a8fe8a422a24eace5a5be93a07343a08ff9eab-ad7aa5c66b350e944b6134485afefafa-1676547854-1676540654&remote=187.11.78.61
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 7
+https://server100.online/premiere7/video.m3u8?token=f76e30e35296036011e7d3ca3b2b5f36e2d29bd3-803bc7384eda4bc3cff7f5a98fd8fbbe-1676547895-1676540695&remote=187.11.78.61
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/800px-Logo_Premiere_FC_2018.png" group-title="Pago | Esportes", Premiere 8
 
 #EXTINF:-1 tvg-logo="" group-title="Lista 2", Alquiler 1 HD
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/73671
