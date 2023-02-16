@@ -28,8 +28,6 @@ http://168.205.87.198:8555/live/antony/1234/137.m3u8
 http://168.205.87.198:8555/live/antony/1234/102.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Brasil Aberto", TV Brasil
 http://168.205.87.198:8555/live/antony/1234/134.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TVBrasil2.png" group-title="Brasil Aberto", TV Brasil 2
-http://168.205.87.198:8555/live/antony/1234/135.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil Aberto", ALL SPORTS
 http://168.205.87.198:8555/live/antony/1234/148.m3u8
 
@@ -5033,3 +5031,5 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31473
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31593
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Pago | Esportes", SPORTV TV 1
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89604
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" group-title="Pago | Esportes", SPORTV TV 2
+https://52zkq4daee9n9hr2.cdnexpress11.net:8443/hls/ovqfhh3m5wv.m3u8?s=hAmJ1EpOEhxZuORS1j2UJQ&e=1676558571
