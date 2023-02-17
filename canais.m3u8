@@ -178,12 +178,7 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16693
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16704
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/250px-Science_Channel_logo.svg.png" group-title="Pago | Documentarios", Discovery Science
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16708
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV
-http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16753
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esportes", SporTV 2
-https://server100.online/sportv2/video.m3u8?token=de2796d5d0dbaab99dff694df9cadb334cb86e12-e8802f12a3bfa084c52c51a4f2dca977-1676546233-1676539033&remote=187.11.78.61
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esportes", SporTV 3
-https://server100.online/sportv3/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=7685f9f83041df61170f60f3b77caf541e5ef815-dc7953f57a65fbd50c9602102a15508e-1676546603-1676539403
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Pago | Documentarios", Discovery World HD
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Pago | Documentarios", ID Investigacao Discovery
@@ -200,26 +195,44 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16749
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16730
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Pago | Entretimentos", Canal Sony
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16700
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Esportes", Combate
-http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png" group-title="Pago | Filmes", HBO 2
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Pago | Filmes", HBO
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Pago | Filmes", Telecine Fun
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16756
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes", ESPN 3
-http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16725
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="Esportes", ESPN
-http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Esportes", ESPN 4 HD
-http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31148
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/250px-Megapix_fundoclaro_midiaimpressa.png" group-title="Pago | Filmes", MEGAPIX
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31278
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Pago | Filmes", HBO SIGNATURE
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31473
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telecine_Touch_3.png/800px-Telecine_Touch_3.png" group-title="Pago | Filmes", Telecine Touch
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31593
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16753
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV [1]
+https://ddy2.onlinewebtv.lol/ddy2/premium78/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV [2]
+https://webudit.onlinewebtv.lol/lb/premium78/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV [3]
+https://server100.online/sportv/video.m3u8?token=8834b04410daf7151e9953d8f06606faa73add9c-9db902ee4c6e63098e1755f985345fb0-1676628816-1676625216&remote=187.11.78.61
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV [4]
+https://server100.online/sportv/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esportes", SporTV 2
+https://server100.online/sportv2/video.m3u8?token=de2796d5d0dbaab99dff694df9cadb334cb86e12-e8802f12a3bfa084c52c51a4f2dca977-1676546233-1676539033&remote=187.11.78.61
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Esportes", SporTV 3
+https://server100.online/sportv3/tracks-v1a1/mono.m3u8?remote=187.11.78.61&token=7685f9f83041df61170f60f3b77caf541e5ef815-dc7953f57a65fbd50c9602102a15508e-1676546603-1676539403
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Esportes", Combate
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Esportes", ESPN 3
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16725
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="Esportes", ESPN
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Esportes", ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31148
+
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Esportes", SPORTV TV 1
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89604
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" group-title="Esportes", SPORTV TV 2
