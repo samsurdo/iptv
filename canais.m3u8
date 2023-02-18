@@ -266,3 +266,38 @@ http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88885
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88888
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 13
 http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88891
+
+#EXTINF:-1 tvg-logo="" group-title="Novos", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Combate Global
+https://stream.ads.ottera.tv/cl/230218cfobdqkkcjm7bff634bg/854x480_550000_3_f.m3u8?i=475_960
+#EXTINF:-1 tvg-logo="" group-title="Novos", Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Euro Sport
+https://s16.flowerscast.com:999/hls/eurosp1.m3u8?md5=OJGd1d36c-5b-2_ZEyW6jg&expires=1676727198
+#EXTINF:-1 tvg-logo="" group-title="Novos", ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2001359497.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", TV Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w2033779054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Canela Sports
+https://stream.ads.ottera.tv/cl/230218cfobhan7odeh4dmirq20/854x480_1310534_2_f.m3u8?i=475_2013
+#EXTINF:-1 tvg-logo="" group-title="Novos", RMC Sport
+https://bfmtvalive1-a.akamaihd.net/r13240d2722f04909a6698e7d03165c71/eu-central-1/eu-central-1/876450610001/profile_0/8850ae3495a8415c8d9e54d5910304e2/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Canela 2
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_english.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", UY 1
+https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9NYXJvbmlhc19FbnRlcnRhaW5tZW50JTJGaGxzJTJGJTJBJmV4cGlyeT0xNjc2NzM1MDM0JnJhbmRvbT0wTVk5YjFKRGdaJmMtaXA9MTg3LjExLjc4LjYxJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OHMsNDBiODI4MDhhYzE0ZmM1ZmY0ZGRhMmQzNmY5MWVjMzc5MzU5YmIxOTEyYmJjM2UzYzZhYjZhYjAwMWRlODhjZA==/u/auth_D2_Maronias_Entertainment/hls/auth_D2_Maronias_Entertainment_HLSDEF13697_3.m3u8?m=1649440813
+#EXTINF:-1 tvg-logo="" group-title="Novos", RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", XFC TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-logo="" group-title="Novos", FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/d6c50ff1-e361-418d-b77c-9cb54c8d7d5b/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Fight Sports
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", SPORTV 2
+https://ddy2.onlinewebtv.lol/ddy2/premium79/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novos", Canal LIBRAS
+https://www.dailymotion.com/cdn/live/video/x8a60g5.m3u8?sec=4cLUO9Prie7F-AcwcoQCvklpE-xe7DR2nQnPHQBXsZ7M8Sq8HSoDzVyiwdMT_0i2Y9xZxj3EWgeimiJUBbWZ4A&dmTs=689013&dmV1st=13fbd2c3-01bf-4e34-8c83-387ca54018dc
