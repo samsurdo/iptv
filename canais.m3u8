@@ -27,7 +27,7 @@ http://168.205.87.198:8555/live/antony/1234/104.m3u8
 ***** NOTICIA *****
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brasil - Notícias", Record News
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Variados", JP News
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Brasil - Notícias", JP News
 http://168.205.87.198:8555/live/antony/1234/161.m3u8
 
 ***** INFANTIL *****
