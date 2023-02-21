@@ -9,3 +9,27 @@ http://168.205.87.198:8555/live/antony/1234/134.m3u8
 http://168.205.87.198:8555/live/antony/1234/137.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png" group-title="Brasil - Educação", Canal Futura
 http://168.205.87.198:8555/live/antony/1234/67.m3u8
+
+***** ABERTO *****
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil - Aberto", Band TV
+http://168.205.87.198:8555/live/antony/1234/19.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Brasil - Aberto", TV Cultura
+http://168.205.87.198:8555/live/antony/1234/230.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Brasil - Aberto", Globo
+http://168.205.87.198:8555/live/antony/1234/70.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Brasil - Aberto", Record TV
+http://168.205.87.198:8555/live/antony/1234/96.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Brasil - Aberto", Rede TV
+http://168.205.87.198:8555/live/antony/1234/102.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Brasil - Aberto", SBT
+http://168.205.87.198:8555/live/antony/1234/104.m3u8
+
+***** NOTICIA *****
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brasil - Notícias", Record News
+http://168.205.87.198:8555/live/antony/1234/97.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Variados", JP News
+http://168.205.87.198:8555/live/antony/1234/161.m3u8
+
+***** INFANTIL *****
+#EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil - Infantil", RáTimBum TV
+http://168.205.87.198:8555/live/antony/1234/84.m3u8
