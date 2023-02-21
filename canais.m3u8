@@ -1,2 +1,7 @@
 *** CANAIS IPTV POR SAMSURDO ***
 #EXTM3U
+
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Brasil",TV Brasil Web
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Brasil", TV Brasil
+http://168.205.87.198:8555/live/antony/1234/134.m3u8
