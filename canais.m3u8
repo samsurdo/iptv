@@ -31,6 +31,9 @@ http://168.205.87.198:8555/live/antony/1234/69.m3u8
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Notícias", JP News
 http://168.205.87.198:8555/live/antony/1234/161.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Notícias", CNN Brasil
+https://live.embedflix.net/p2p/cnnbr/playlist.m3u8?wmsAuthSign=undefined
+
 
 ***** INFANTIS *****
 #EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantil", RáTimBum TV
