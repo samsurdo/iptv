@@ -35,3 +35,7 @@ http://168.205.87.198:8555/live/antony/1234/161.m3u8
 ***** INFANTIL *****
 #EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil - Infantil", RáTimBum TV
 http://168.205.87.198:8555/live/antony/1234/84.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-summer-m.png" group-title="Brasil - Infantil", Chespirito
+http://168.205.87.198:8555/live/antony/1234/159.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/33154491-designstyle-friends-m.png" group-title="Brasil - Infantil", Kids
+http://168.205.87.198:8555/live/antony/1234/143.m3u8
