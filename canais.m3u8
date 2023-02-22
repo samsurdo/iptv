@@ -39,3 +39,5 @@ http://168.205.87.198:8555/live/antony/1234/84.m3u8
 http://168.205.87.198:8555/live/antony/1234/159.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/33154491-designstyle-friends-m.png" group-title="Brasil - Infantil", Kids
 http://168.205.87.198:8555/live/antony/1234/143.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Brasil - Infantil", ZooMo
+http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
