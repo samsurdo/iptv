@@ -43,11 +43,11 @@ http://168.205.87.198:8555/live/antony/1234/143.m3u8
 http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
 
 ***** VARIEDADES E MÚSICAS *****
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Pago - Variedade e Músicas",Play TV
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Pago - Variedade e Músicas",Play TV
 http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Pago - Variedade e Músicas",Music Box Brazil
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Pago - Variedade e Músicas",Music Box Brazil
 http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Pago - Variedade e Músicas",Prime Box Brazil
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Pago - Variedade e Músicas",Prime Box Brazil
 http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8
 
 ***** ENTRETIMENTOS *****
