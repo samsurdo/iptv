@@ -62,7 +62,7 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16753
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Esportes", SporTV 2
 http://cdn-1.nxplay.com.br/SPORTV2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="https://i.pinimg.com/originals/96/e0/e1/96e0e11fe9db380aa7edbc90bd68aded.jpg" group-title="Esportes" pltv-subgroup="HD", SPORTV 2
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv2_22ab0e43_a006a6868ff6101e6dcb258e3d5827d8232e6fd8/playlist.m3u8
+https://br.embedflix.net/p2p/sportv2_720p/chunks.m3u8?nimblesessionid=3223190&wmsAuthSign=undefined
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="Esportes", ESPN
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/31034
 #EXTINF:-1 tvg-name="https://i.pinimg.com/originals/96/e0/e1/96e0e11fe9db380aa7edbc90bd68aded.jpg" group-title="TV AO VIVO" pltv-subgroup="HD", ESPN 2
