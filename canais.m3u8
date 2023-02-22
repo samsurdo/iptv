@@ -31,6 +31,10 @@ http://168.205.87.198:8555/live/antony/1234/69.m3u8
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Brasil - Notícias", JP News
 http://168.205.87.198:8555/live/antony/1234/161.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Pago - Notícias",CNN Brasil
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Pago - Notícias",CNN Brasil HD
+http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 
 ***** INFANTIL *****
 #EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil - Infantil", RáTimBum TV
@@ -39,5 +43,51 @@ http://168.205.87.198:8555/live/antony/1234/84.m3u8
 http://168.205.87.198:8555/live/antony/1234/159.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/33154491-designstyle-friends-m.png" group-title="Brasil - Infantil", Kids
 http://168.205.87.198:8555/live/antony/1234/143.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Brasil - Infantil", ZooMo
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" group-title="Brasil - Infantil", ZooMoo Kids
 http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Brasil - Infantil",Nick Jr. HD
+http://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Brasil - Infantil",Nick Jr. HD 2
+http://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v2a1/mono.m3u8
+
+***** VARIEDADES E MÚSICAS *****
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.imgur.com/KagpnyD.png" group-title="Pago - Variedade e Músicas",MTV Live
+http://cdn-1.nxplay.com.br/MTVNI_HD_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.imgur.com/KagpnyD.png" group-title="Pago - Variedade e Músicas",MTV Live HD
+http://cdn-1.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Pago - Variedade e Músicas",Play TV
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Pago - Variedade e Músicas",Music Box Brazil
+http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Pago - Variedade e Músicas",Prime Box Brazil
+http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+***** ESPORTE *****
+#EXTINF:-1 tvg-country="BR" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Brasil - Esportes",Woohoo
+http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Pago - Esportes", Combate
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
+
+***** FILMES E SÉRIES *****
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Pago - Filmes e Séries",Film&Arts
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Pago - Filmes e Séries",Film&Arts HD
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Pago - Filmes e Séries",AMC
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Pago - Filmes e Séries",AMC HD
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Pago - Filmes e Séries",TBS
+http://cdn-1.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Pago - Filmes e Séries",TBS HD
+http://cdn-1.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Pago - Filmes e Séries",Paramount
+http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Pago - Filmes e Séries",Paramount HD
+http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
+
+***** DOCUMENTÁRIOS *****
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Pago - Documentários",Arte 1
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Pago - Documentários",Arte 1 HD
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
