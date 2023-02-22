@@ -10,7 +10,7 @@ http://168.205.87.198:8555/live/antony/1234/137.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png" group-title="Brasil - Educação", Canal Futura
 http://168.205.87.198:8555/live/antony/1234/67.m3u8
 
-***** ABERTO *****
+***** ABERTOS *****
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil - Aberto", Band TV
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Brasil - Aberto", TV Cultura
@@ -26,13 +26,13 @@ http://168.205.87.198:8555/live/antony/1234/104.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Brasil - Aberto", Gazeta
 http://168.205.87.198:8555/live/antony/1234/69.m3u8
 
-***** NOTICIA *****
+***** NOTICIAS *****
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brasil - Notícias", Record News
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Brasil - Notícias", JP News
 http://168.205.87.198:8555/live/antony/1234/161.m3u8
 
-***** INFANTIL *****
+***** INFANTIS *****
 #EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil - Infantil", RáTimBum TV
 http://168.205.87.198:8555/live/antony/1234/84.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-summer-m.png" group-title="Brasil - Infantil", Chespirito
@@ -44,13 +44,17 @@ http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
 
 ***** VARIEDADES E MÚSICAS *****
 #EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Pago - Variedade e Músicas",Play TV
-http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Pago - Variedade e Músicas",Music Box Brazil
-http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Pago - Variedade e Músicas",Prime Box Brazil
-http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8
 
-***** ESPORTE *****
+***** ENTRETIMENTOS *****
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="Pago - Entretimentos", COMEDY CENTRAL
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16704
+
+***** ESPORTES *****
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Pago - Esportes", Combate
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
 
@@ -59,7 +63,19 @@ http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
 http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Pago - Filmes e Séries",Film&Arts 
 http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Pago - Filmes e Séries", TNT Series
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16761
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="Pago - Filmes e Séries", TNT
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
 
 ***** DOCUMENTÁRIOS *****
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Pago - Documentários", ANIMAL PLANET
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16693
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/250px-Science_Channel_logo.svg.png" group-title="Pago - Documentários", Discovery Science
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16708
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Pago - Documentários", Discovery World HD
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16712
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Pago - Documentários", ID Investigacao Discovery
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16736
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Pago - Documentários", Discovery Turbo
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16711
