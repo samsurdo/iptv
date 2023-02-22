@@ -1,81 +1,125 @@
 #EXTM3U
 
 ***** EDUCAÇÃO *****
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Brasil - Educação",TV Brasil Web
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Educação",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/chunks.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Brasil - Educação", TV Brasil
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TVBrasil2019.svg/revision/latest/scale-to-width-down/1000?cb=20190411235233" group-title="Educação", TV Brasil
 http://168.205.87.198:8555/live/antony/1234/134.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Brasil - Educação", TV Escola
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Educação", TV Escola
 http://168.205.87.198:8555/live/antony/1234/137.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png" group-title="Brasil - Educação", Canal Futura
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png" group-title="Educação", Canal Futura
 http://168.205.87.198:8555/live/antony/1234/67.m3u8
 
 ***** ABERTOS *****
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brasil - Aberto", Band TV
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Aberto", Band TV
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Brasil - Aberto", TV Cultura
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Aberto", TV Cultura
 http://168.205.87.198:8555/live/antony/1234/230.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Brasil - Aberto", Globo
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberto", Globo
 http://168.205.87.198:8555/live/antony/1234/70.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Brasil - Aberto", Record TV
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Aberto", Record TV
 http://168.205.87.198:8555/live/antony/1234/96.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Brasil - Aberto", Rede TV
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Aberto", Rede TV
 http://168.205.87.198:8555/live/antony/1234/102.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Brasil - Aberto", SBT
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="Aberto", SBT
 http://168.205.87.198:8555/live/antony/1234/104.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Brasil - Aberto", Gazeta
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="Aberto", Gazeta
 http://168.205.87.198:8555/live/antony/1234/69.m3u8
 
 ***** NOTICIAS *****
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brasil - Notícias", Record News
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Notícias", Record News
 http://168.205.87.198:8555/live/antony/1234/97.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Brasil - Notícias", JP News
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png" group-title="Notícias", JP News
 http://168.205.87.198:8555/live/antony/1234/161.m3u8
 
 ***** INFANTIS *****
-#EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Brasil - Infantil", RáTimBum TV
+#EXTINF:-1 tvg-country="BR" vg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantil", RáTimBum TV
 http://168.205.87.198:8555/live/antony/1234/84.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-summer-m.png" group-title="Brasil - Infantil", Chespirito
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Chespirito-designstyle-summer-m.png" group-title="Infantil", Chespirito
 http://168.205.87.198:8555/live/antony/1234/159.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/33154491-designstyle-friends-m.png" group-title="Brasil - Infantil", Kids
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/33154491-designstyle-friends-m.png" group-title="Infantil", Kids
 http://168.205.87.198:8555/live/antony/1234/143.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" group-title="Brasil - Infantil", ZooMoo Kids
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" group-title="Infantil", ZooMoo Kids
 http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
 
 ***** VARIEDADES E MÚSICAS *****
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Pago - Variedade e Músicas",Play TV
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/PlayTV20062020.png" group-title="Variedade e Músicas",Play TV
 http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Pago - Variedade e Músicas",Music Box Brazil
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Variedade e Músicas",Music Box Brazil
 http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Pago - Variedade e Músicas",Prime Box Brazil
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Variedade e Músicas",Prime Box Brazil
 http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8
 
 ***** ENTRETIMENTOS *****
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="Pago - Entretimentos", COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" group-title="Entretimentos", COMEDY CENTRAL
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16704
 
 ***** ESPORTES *****
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Pago - Esportes", Combate
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/798px-Canal-combate-logo.png" group-title="Esportes", Combate
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Esportes", SporTV
+http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16753
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-455.png" group-title="Esportes", SPORTV +
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89598
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Esportes", SPORTV TV 1
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89604
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png" group-title="Esportes", SPORTV TV 2
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89611
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" group-title="Esportes", SPORTV TV 3
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89617
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-4-453.png" group-title="Esportes", SPORTV TV 4
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89621
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-5-454.png" group-title="Esportes", SPORTV TV 5
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89625
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-6-2619.png" group-title="Esportes", SPORTV TV 6
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89626
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-455.png" group-title="Esportes", SPORTV +
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/89598
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/86213
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="Esportes", M. Liga de Campeones 2
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/74316
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="Esportes", M. Liga de Campeones 3
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/66217
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="Esportes", M. Liga de Campeones 4
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/66218
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" group-title="Esportes", M. Liga de Campeones 5
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88867
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="Esportes", M. Liga de Campeones 6
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/8887
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="Esportes", M. Liga de Campeones 7
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88873
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="Esportes", M. Liga de Campeones 8
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88876
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 9
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88879
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 10
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88882
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 11
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88885
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 12
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88888
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="Esportes", M. Liga de Campeones 13
+http://e6.kiray.tk:569/aAPKwsHL3Uxz/myqN2F5zmmqU/88891
 
 ***** FILMES E SÉRIES *****
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Pago - Filmes e Séries",Film&Arts [HD]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Filmes e Séries",Film&Arts [HD]
 http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Pago - Filmes e Séries",Film&Arts 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Filmes e Séries",Film&Arts 
 http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Pago - Filmes e Séries", TNT Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes e Séries", TNT Series
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16761
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="Pago - Filmes e Séries", TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries", TNT
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16760
 
 ***** DOCUMENTÁRIOS *****
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Pago - Documentários", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentários", ANIMAL PLANET
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16693
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/250px-Science_Channel_logo.svg.png" group-title="Pago - Documentários", Discovery Science
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/250px-Science_Channel_logo.svg.png" group-title="Documentários", Discovery Science
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16708
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Pago - Documentários", Discovery World HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="Documentários", Discovery World HD
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16712
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Pago - Documentários", ID Investigacao Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentários", ID Investigacao Discovery
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Pago - Documentários", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentários", Discovery Turbo
 http://xcui.vitvabc.xyz:8880/287994016242/287994016242/16711
